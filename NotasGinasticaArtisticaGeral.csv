@@ -1,0 +1,97 @@
+Atleta,Nacionalidade,Dificuldade,Execucao,Penalidade,Pontuação,Aparelho
+BILES Simone,USA,6.400,9.366,0,15.766,Vault
+ANDRADE Rebeca,BRA,5.600,9.500,0,15.100,Vault
+BLACK Elsabeth,CAN,5.000,9.100,0,14.100,Vault
+NEMOUR Kaylia,ALG,5.000,9.033,0,14.033,Vault
+D'AMATO Alice,ITA,5.000,9.000,0,14.000,Vault
+BARBOSU Ana,ROU,5.200,8.800,0,14.000,Vault
+LEE Sunisa,USA,5.000,8.933,0,13.933,Vault
+ESPOSITO Manila,ITA,5.000,8.866,0,13.866,Vault
+KEVRIC Helen,GER,5.000,8.866,0,13.866,Vault
+KINSELLA Alice,GBR,5.000,8.800,0,13.800,Vault
+KISHI Rina,JPN,5.000,8.766,0,13.766,Vault
+FENTON Georgia-Mae,GBR,4.600,9.033,0,13.633,Vault
+PASS Ruby,AUS,5.000,8.733,100,13.633,Vault
+SARAIVA Flavia,BRA,5.000,8.633,0,13.633,Vault
+BLANCO Luisa,COL,4.600,8.900,0,13.500,Vault
+STEWART Ava,CAN,4.600,8.733,0,13.333,Vault
+QIU Qiyuan,CHN,4.400,8.733,0,13.133,Vault
+GHIGOARTA Amalia,ROU,4.200,8.900,0,13.100,Vault
+OU Yushan,CHN,4.200,8.800,0,13.000,Vault
+CZIFRA Bettina Lili,HUN,4.200,8.766,0,12.966,Vault
+VISSER Naomi,NED,4.200,8.766,0,12.966,Vault
+NAKAMURA Haruka,JPN,4.200,8.633,0,12.833,Vault
+VOSS Sarah,GER,5.000,7.800,300,12.500,Vault
+MARTINS Filipa,POR,5.000,7.600,100,12.500,Vault
+NEMOUR Kaylia,ALG,7.200,8.333,0,15.533,Uneven bar
+LEE Sunisa,USA,6.400,8.466,0,14.866,Uneven bar
+D'AMATO Alice,ITA,6.400,8.400,0,14.800,Uneven bar
+ANDRADE Rebeca,BRA,6.200,8.466,0,14.666,Uneven bar
+KEVRIC Helen,GER,6.200,8.266,0,14.466,Uneven bar
+VISSER Naomi,NED,6.100,8.166,0,14.266,Uneven bar
+KINSELLA Alice,GBR,6.000,8.133,0,14.133,Uneven bar
+BLACK Elsabeth,CAN,6.000,8.066,0,14.066,Uneven bar
+OU Yushan,CHN,5.800,8.166,0,13.966,Uneven bar
+NAKAMURA Haruka,JPN,6.100,7.833,0,13.933,Uneven bar
+QIU Qiyuan,CHN,6.600,7.300,0,13.900,Uneven bar
+SARAIVA Flavia,BRA,5.600,8.300,0,13.900,Uneven bar
+CZIFRA Bettina Lili,HUN,5.900,8.000,0,13.900,Uneven bar
+KISHI Rina,JPN,5.600,8.233,0,13.833,Uneven bar
+FENTON Georgia-Mae,GBR,5.700,8.100,0,13.800,Uneven bar
+PASS Ruby,AUS,6.100,7.633,0,13.733,Uneven bar
+BILES Simone,USA,6.200,7.533,0,13.733,Uneven bar
+MARTINS Filipa,POR,5.300,8.266,0,13.566,Uneven bar
+ESPOSITO Manila,ITA,5.500,7.300,0,12.800,Uneven bar
+STEWART Ava,CAN,5.800,6.833,0,12.633,Uneven bar
+GHIGOARTA Amalia,ROU,5.300,7.266,0,12.566,Uneven bar
+BARBOSU Ana,ROU,6.000,6.433,0,12.433,Uneven bar
+VOSS Sarah,GER,5.200,7.133,0,12.333,Uneven bar
+BLANCO Luisa,COL,4.500,6.933,300,11.133,Uneven bar
+BILES Simone,USA,6.400,8.166,0,14.566,Balance Beam
+QIU Qiyuan,CHN,6.400,8.100,0,14.500,Balance Beam
+SARAIVA Flavia,BRA,5.900,8.366,0,14.266,Balance Beam
+ESPOSITO Manila,ITA,6.000,8.200,0,14.200,Balance Beam
+ANDRADE Rebeca,BRA,6.100,8.033,0,14.133,Balance Beam
+OU Yushan,CHN,6.000,8.033,0,14.033,Balance Beam
+D'AMATO Alice,ITA,5.800,8.233,0,14.033,Balance Beam
+LEE Sunisa,USA,6.200,7.800,0,14.000,Balance Beam
+NAKAMURA Haruka,JPN,5.800,7.900,0,13.700,Balance Beam
+PASS Ruby,AUS,5.600,7.866,0,13.466,Balance Beam
+KEVRIC Helen,GER,5.400,8.000,0,13.400,Balance Beam
+VISSER Naomi,NED,5.200,8.133,0,13.333,Balance Beam
+NEMOUR Kaylia,ALG,5.600,7.633,0,13.233,Balance Beam
+KISHI Rina,JPN,5.600,7.553,,13.153,Balance Beam
+STEWART Ava,CAN,6.000,7.100,0,13.100,Balance Beam
+KINSELLA Alice,GBR,5.500,7.533,0,13.033,Balance Beam
+BLACK Elsabeth,CAN,6.000,6.933,0,12.933,Balance Beam
+BLANCO Luisa,COL,5.300,7.566,0,12.866,Balance Beam
+MARTINS Filipa,POR,4.900,7.800,0,12.700,Balance Beam
+BARBOSU Ana,ROU,5.600,6.866,0,12.466,Balance Beam
+VOSS Sarah,GER,5.600,6.700,0,12.300,Balance Beam
+GHIGOARTA Amalia,ROU,5.100,6.800,0,11.900,Balance Beam
+CZIFRA Bettina Lili,HUN,4.800,6.600,0,11.400,Balance Beam
+FENTON Georgia-Mae,GBR,4.400,6.900,0,11.300,Balance Beam
+BILES Simone,USA,6.900,8.166,0,15.066,Floor Exercise
+ANDRADE Rebeca,BRA,5.900,8.233,100,14.033,Floor Exercise
+BLACK Elsabeth,CAN,5.600,8.100,0,13.700,Floor Exercise
+LEE Sunisa,USA,5.400,8.266,0,13.666,Floor Exercise
+BARBOSU Ana,ROU,5.700,7.866,0,13.566,Floor Exercise
+D'AMATO Alice,ITA,5.600,8.000,100,13.500,Floor Exercise
+VISSER Naomi,NED,5.400,8.000,0,13.400,Floor Exercise
+QIU Qiyuan,CHN,5.100,8.133,0,13.233,Floor Exercise
+KISHI Rina,JPN,5.700,7.533,0,13.233,Floor Exercise
+GHIGOARTA Amalia,ROU,5.200,7.966,0,13.166,Floor Exercise
+NEMOUR Kaylia,ALG,5.500,7.700,100,13.100,Floor Exercise
+FENTON Georgia-Mae,GBR,5.200,7.833,0,13.033,Floor Exercise
+PASS Ruby,AUS,5.200,7.766,0,12.966,Floor Exercise
+VOSS Sarah,GER,5.000,7.866,,12.866,Floor Exercise
+KEVRIC Helen,GER,5.500,7.366,0,12.866,Floor Exercise
+KINSELLA Alice,GBR,4.900,7.933,0,12.833,Floor Exercise
+CZIFRA Bettina Lili,HUN,5.800,7.233,200,12.833,Floor Exercise
+ESPOSITO Manila,ITA,5.700,7.033,0,12.733,Floor Exercise
+BLANCO Luisa,COL,4.700,8.000,0,12.700,Floor Exercise
+NAKAMURA Haruka,JPN,5.300,7.333,0,12.633,Floor Exercise
+STEWART Ava,CAN,4.900,7.600,0,12.500,Floor Exercise
+MARTINS Filipa,POR,4.800,7.766,100,12.466,Floor Exercise
+SARAIVA Flavia,BRA,5.400,7.133,300,12.233,Floor Exercise
+OU Yushan,CHN,5.100,6.833,0,11.933,Floor Exercise
